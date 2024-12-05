@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@adobe/react-spectrum": "^3.38.0",
     "@adobe/uix-guest": "^0.10.5",
     "next": "15.0.3",
     "react": "^19.0.0-rc-66855b96-20241106",
